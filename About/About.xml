@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Persona Bond Patch for The 13th Vendemiaire</name>
+	<author>Daria40K</author>
+	<packageId>Daria40K.PersonaBondPatch.13thVendemiaire</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Persona Bond Patch for The 13th Vendemiaire</description>
+    <modDependencies>
+        <li>
+            <packageId>xedos.personabond</packageId>
+            <displayName>Persona Bond Forge</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2178003816</steamWorkshopUrl>
+        </li>
+
+        <li>
+            <packageId>harkon.other.vendemiaire</packageId>
+            <displayName>The 13th Vendemiaire</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2788783749</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
